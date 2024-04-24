@@ -10,10 +10,13 @@
 
 - [Azure-AI-Services-blog](https://techcommunity.microsoft.com/t5/ai-azure-ai-services-blog/bg-p/Azure-AI-Services-blog)
 
-### Examples
-
+### Cookbooks
 - [OpenAI Cookbook](https://cookbook.openai.com/)
 - [GitHub: Azure/azure-openai-samples](https://github.com/Azure/azure-openai-samples)
+- [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook#anthropic-cookbook)
+
+### Examples
+
 - [Introduction to Building AI Apps](https://github.com/Azure/intro-to-intelligent-apps)
 - [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)
 - [AutoGen Examples](https://microsoft.github.io/autogen/docs/Examples/AutoGen-AgentChat/)
@@ -28,7 +31,7 @@
 - [GPT-4 Turbo with Vision: Out-of-Stock Detection (Demo Solution)](https://github.com/LazaUK/AOAI-GPT4Vision-Streamlit-SDKv1)
 - [microsoft/azurechat](https://github.com/microsoft/azurechat)
 - [LlamaIndex Examples](https://github.com/run-llama/llama_index/tree/main/examples)
-- 
+- [AI Hub Executive Demo HandsOn](https://github.com/azure/aihub)
 
 ### Agents
 
