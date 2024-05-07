@@ -40,6 +40,7 @@
 
 ### Prompt Engineering
 
+- [OpenAI - Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - [The ChatGPT list of lists: A collection of 3000+ prompts, examples, use-cases, tools, APIs, extensions, fails and other resources.](https://medium.com/mlearning-ai/the-chatgpt-list-of-lists-a-collection-of-1500-useful-mind-blowing-and-strange-use-cases-8b14c35eb)    
 - [I Scanned 1000+ Prompts so You Don’t Have to: 10 Need-to-Know Techniques](https://medium.com/mlearning-ai/i-scanned-1000-prompts-so-you-dont-have-to-10-need-to-know-techniques-a77bcd074d97)
 - [Prompt engineering techniques](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
