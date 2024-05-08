@@ -9,7 +9,7 @@ comm==0.2.2
 debugpy==1.8.1
 decorator==5.1.1
 distro==1.9.0
-executing==2.0.1
+executing==2.0.1 
 filelock==3.13.3
 fsspec==2024.3.1
 grpcio==1.63.0
